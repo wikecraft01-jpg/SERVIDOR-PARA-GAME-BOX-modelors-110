@@ -1,0 +1,6 @@
+{
+  "name": "RS-110 AI Linux Server OS & Firmware Suite",
+  "description": "Sistema operativo Linux optimizado para Game Box RS-110 (Quad-Core, 2GB RAM, 64GB+, GPU Mali 3+2 core). Panel de servidor para bots de IA, modo desarrollador con depuración USB y Wi-Fi, optimizaciones de memoria y compatibilidad PhoenixSuit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
